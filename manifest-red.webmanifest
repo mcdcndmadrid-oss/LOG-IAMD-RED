@@ -1,0 +1,21 @@
+{
+  "id": "./red-logistics",
+  "name": "IAMD RED Logistics",
+  "short_name": "RED Logistics",
+  "description": "Manage and release RED stocks to the IAMD Planning Bridge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#070a09",
+  "theme_color": "#2b1112",
+  "icons": [
+    {
+      "src": "./icon-red.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "./blue-logistics",
+  "name": "IAMD BLUE Logistics",
+  "short_name": "BLUE Logistics",
+  "description": "Manage and release BLUE stocks and available systems to the IAMD Planning Bridge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#050d0b",
+  "theme_color": "#071820",
+  "icons": [
+    {
+      "src": "./icon-blue.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
